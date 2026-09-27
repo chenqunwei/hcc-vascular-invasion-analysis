@@ -1,0 +1,13 @@
+# Python dependencies for the HCC vascular invasion continuum analysis
+# Install with:  pip install -r requirements.txt
+# (versions are left unpinned; tested on Python 3.11)
+
+lifelines
+matplotlib
+numpy
+pandas
+python-docx
+requests
+scanpy
+scikit-learn
+scipy

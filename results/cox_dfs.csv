@@ -1,0 +1,11 @@
+Analysis,Variable,HR,CI_lower,CI_upper,P
+Univariate,VI score (per SD),1.352,1.118,1.635,0.0019
+Univariate,VI subtype (per level),1.41,1.113,1.787,0.0044
+Univariate,Age (continuous),1.0,0.986,1.014,0.9603
+Univariate,Sex (Male vs Female),0.774,0.535,1.121,0.1755
+Univariate,Advanced stage (III/IV vs I/II),2.105,1.386,3.197,0.0005
+Univariate,VI subtype (High vs Low),1.981,1.211,3.243,0.0065
+Multivariate,VI score (per SD),1.353,1.117,1.639,0.0020
+Multivariate,Age (continuous),1.0,0.986,1.014,0.9792
+Multivariate,Sex (Male vs Female),0.907,0.617,1.332,0.6180
+Multivariate,Advanced stage (III/IV vs I/II),2.156,1.41,3.297,0.0004

@@ -1,0 +1,20 @@
+# Raw inputs (large) — re-fetch via 01_data_acquisition scripts or GEO/TCGA
+data/geo/
+data/tcga/*.tsv.gz
+data/tcga/*.txt.gz
+# Processed single-cell objects (1.1 GB) — available on Zenodo (see README)
+results/*.h5ad
+# Stale / deprecated intermediate outputs (kept out of the release)
+results/_deprecated*/
+results/_archived/
+results/_phase6_hold/
+# Python / OS noise
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+
+# Manuscript drafts — authored separately; NOT part of the analysis code repository
+# (kept out to avoid bundling multiple draft versions / version confusion)
+HCC*手稿*.md
+HCC*手稿*.docx
