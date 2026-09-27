@@ -2,7 +2,7 @@
 
 Reproducible analysis code and derived data for the manuscript
 *"Integrative molecular dissection of the vascular invasion continuum in
-hepatocellular carcinoma"* (submitted to Journal of Translational Medicine).
+hepatocellular carcinoma"* (manuscript in preparation).
 
 > **Note on scope.** This repository contains the **analysis source code** and the
 > **derived data tables** needed to verify every reported number, table, and figure.
@@ -160,5 +160,5 @@ MIT — see `LICENSE`.
 ## Citation
 
 Chen Q, et al. Integrative molecular dissection of the vascular invasion
-continuum in hepatocellular carcinoma. *Journal of Translational Medicine*
-(2026, submitted).
+continuum in hepatocellular carcinoma. Manuscript in preparation (2026).
+If you use this code or these data, please cite the manuscript above.
